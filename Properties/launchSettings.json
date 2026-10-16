@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AshkanQuantEdge": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50174;http://localhost:50175"
+    }
+  }
+}

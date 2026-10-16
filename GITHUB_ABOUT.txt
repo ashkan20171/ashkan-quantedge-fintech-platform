@@ -1,0 +1,1 @@
+C#/.NET 8 fintech paper-trading platform with SQL Server, SignalR, coordinated execution, risk budgets and bilingual EN/FA dashboard.
